@@ -2,7 +2,7 @@
 
 * Created by Benjamin Zah
 
-* Ruby version: 3.0.1
+* Ruby version: 2.6.8
 
 * Rails version: 6.1.3.2
 
