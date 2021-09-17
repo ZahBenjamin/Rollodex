@@ -1,3 +1,14 @@
 <% provide(:title, "Home") %>
-<h1>Placeholder</h1>
- <p>Find me at github.com/ZahBenjamin</p>
+<div class="center jumbotron">
+  <h1>Welcome to the placeholder</h1>
+
+  <h2>
+   This is the home page for the rollodex
+   <a href="https://www.github.com/ZahBenjamin">github</a>
+  </h2>
+
+  <%= link_to "Sign up here", signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+<%= link_to image_tag("kitten.jpg", alt: "meowmeow", width: "200px"),
+                      "https://rubyonrails.org" %>
