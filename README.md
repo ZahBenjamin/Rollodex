@@ -1,6 +1,6 @@
 # README
 
-* Created by Benjamin Zah
+* Project created by Benjamin Zah
 
 * Ruby version: 2.6.
 
@@ -21,3 +21,5 @@
 * Deployment instructions
 
 * ...
+
+* For more information contact at bz@benzah.com or check out www.benzah.com
